@@ -1,0 +1,8 @@
+{
+  "name": "vue-code-lint-temp",
+  "version": "1.0.0",
+  "description": "Vue工程统一管理配置规范",
+  "main": "index.js",
+  "author": "cyl",
+  "license": "ISC"
+}
